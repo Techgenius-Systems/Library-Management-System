@@ -1,2 +1,2 @@
 # Library-Management-System
-This systems aims to use for library management
+This systems aims at using it for library management
